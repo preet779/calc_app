@@ -21,7 +21,7 @@ class page2 extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.all(65.0),
                 child: Text(
-                  "Name:Preet vasoya",
+                  "Name:ABC",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 24,
